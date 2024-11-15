@@ -29,7 +29,7 @@ function App() {
         <div className='App'>
             <Header />
             <HeroBanner img={img} title={title} description={description} />
-            <div className='container xl mx-auto bg-white px-24'>
+            <div className='container xl mx-auto bg-white m-1280'>
                 <Breadcrumb />
                 <WhyChooseUs />
                 <ProjectDetails projectDetails={projectDetails} gallery={gallery}/>

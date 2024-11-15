@@ -9,7 +9,7 @@ const WhyChooseUs = () => {
             </div>
             <div className='choose-card flex flex-col justify-center items-center gap-4'>
                 <div className=' icon icon-2'></div>
-                <div className='choose-title'>Heat and Cold Resistance</div>
+                <div className='choose-title'>Heat & Cold Resistance</div>
             </div>
             <div className='choose-card flex flex-col justify-center items-center gap-4'>
                 <div className=' icon icon-3'></div>

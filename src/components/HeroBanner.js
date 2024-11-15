@@ -8,7 +8,7 @@ const HeroBanner = ({ img, title, description }) => {
             style={{ backgroundImage: `url(${img})` }}
         >
             {/*  */}
-            <div className='relative container mx-auto flex justify-start items-center'>
+            <div className='relative container mx-auto flex justify-start items-center m-1280'>
                 <div className='absolute top-0 left-0'>
                     <Breadcrumb />
                 </div>
